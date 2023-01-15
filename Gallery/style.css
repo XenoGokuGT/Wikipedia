@@ -1,0 +1,128 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div{
+    width: 500px;
+    height: 300px;
+    display: flex;
+    margin-top:10px;
+    margin-right:0 ;
+    margin-left:0 ;
+    background-size: 100%;
+    padding-left: 70px;
+}
+
+.img{
+    width:200px;
+    height:250px;
+    background-color: white;
+    margin: 0 20px 0 27px;
+    background-image: url(./garou.jpg);
+    background-size:100%;
+    border:solid;
+    border-color: red;
+}
+
+.img2{
+    background-image: url(./kenpaichi.jpg);
+    width:200px;
+    height:175px;
+    background-color: white;
+    margin: 0 20px 0 27px;
+    background-size:100%;
+    border:solid;
+    border-color: red;
+}
+
+.img3{
+    width:200px;
+    height:175px;
+    background-color: white;
+    margin: 0 20px 0 27px;
+    background-image: url(./kenpaichi\ 2.jpg);
+    border:solid;
+    border-color: purple;
+}
+
+.img4{
+    width:200px;
+    height:175px;
+    background-color: white;
+    margin: 0 8px 0 27px;
+    background-image: url(./45ad3f31ddc08ca6f92c731841896278.jpg);
+    border:solid;
+    border-color: purple;
+}
+
+.img5{
+    width:220px;
+    height:175px;
+    background-color: white;
+    margin: 0 1px 0 17px;
+    background-image: url(./67u6ehyk19k71.webp);
+    background-size:170%;
+    border:solid;
+    border-color: grey;
+}
+
+.img6{
+    width:200px;
+    height:175px;
+    background-color: white;
+    margin: 0 180px 0 27px;
+    background-image: url(./photo_2021-10-31_21-21-25.jpg);
+    background-size: 120%;
+    border:solid;
+    border-color: grey;
+}
+
+.img7{
+    width:200px;
+    height:175px;
+    background-color: white;
+    margin: 0 30px 0 27px;
+    background-image: url(./photo_2021-10-31_21-21-26.jpg);
+    border:solid;
+    border-color: orange;
+}
+
+.img8{
+    width:200px;
+    height:175px;
+    background-color: white;
+    margin: 0 60px 0 27px;
+    background-image: url(./20220228_202928.jpg);
+    border:solid;
+    border-color: orange;
+}
+
+h1{
+    text-align: center;
+    font-size:50px ;
+    color:aqua;
+    padding-top:10px ;
+}
+
+body{
+    background-color: black;
+}
+
+p{
+    color:white;
+}
+
+.main {
+    display: flex;
+}
+
+.mar {
+    margin-left: 300px;
+
+}
+
+p{
+    color:red;
+}
